@@ -39,4 +39,7 @@ elif amari_all==2:
         if len(N)<=2:
             print(-1)
         else:
-            print(2) 
+            print(2)
+
+
+print("完了")
