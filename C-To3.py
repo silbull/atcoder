@@ -44,3 +44,4 @@ elif amari_all==2:
 
 print("完了")
 print("未完了")
+print("やっぱ完了")
